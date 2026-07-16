@@ -10,6 +10,8 @@ A stunning, highly animated grocery store mobile application built with **React 
 
 This project integrates a **dual-driver backend system**: real **Firebase Authentication & Cloud Firestore** for cloud accounts, alongside dynamic **local SQLite database** fallbacks for sandboxed testing.
 
+https://github.com/user-attachments/assets/9e328175-4d28-41f0-8eb5-f0fdacc2d7da
+
 ---
 
 ## 📸 App Previews
